@@ -1,0 +1,18 @@
+#master{
+    display: grid;
+    grid-template-columns: 15% 80%;
+    height: 500px;
+}
+#sidebar{
+    background-color: bisque;
+}
+#sidebar h3{
+    border: 1px solid black;
+    background-color: teal;
+    padding: 5px 0px;
+    width: 90%;
+}
+#sidebar h3:hover{
+    width: 95%;
+    color: white;
+}

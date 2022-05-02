@@ -1,0 +1,9 @@
+#results>div{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    gap: 20px;
+    padding: 10px;
+}
+#results img{
+    width: 100%;
+}
